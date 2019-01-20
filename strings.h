@@ -8,7 +8,6 @@ char *appFail = "Application Failure!\n";
 char *modloadfail = "Failed to load module: ";
 
 // Menu Option Text
-char *appNotice = "Notice: This May Not be Compatible With all PS2 Models!\n";
 char *txtselectBtn = "-Press SELECT to view Memory Card Information.\n";
 char *txtstartBtn = "-Press START to Dump All Connected Memory Cards to USB.\n";
 char *txttriangleBtn = "-Press TRIANGLE to Refresh Status and Clear Output.\n";
