@@ -5,7 +5,7 @@
 ### 
 
 ### Notice
-This Program Doesnt Yet Work, It Still needs a Dumper Function.
+This Program Doesnt Work Yet, It Still needs a Dumper Function.
 
 USBHDFSD Drivers are Also Broken. 
 
